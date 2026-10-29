@@ -12,6 +12,5 @@
     }
     else{
         echo mysqli_error($result);
-    }
-    
+    }          
 ?>
