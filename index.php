@@ -14,6 +14,6 @@
         <h1 align="center">BEM-VINDO A EMPRESA</h1>
         <hr>
         <h3>Escolha a operação no menu superior</h3>
-    </div>    
+    </div>
 </body>
 </html>
