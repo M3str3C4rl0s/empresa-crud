@@ -8,7 +8,7 @@
     //charmar o comando para CONECTAR
     $conexao=mysqli_connect($servidor,$usuario,$senha,$bd);
     if ($conexao){
-        echo "Conexao realizada com sucesso";
+        //echo "Conexao realizada com sucesso";
     }
     else{
         echo mysqli_error($conexao);
